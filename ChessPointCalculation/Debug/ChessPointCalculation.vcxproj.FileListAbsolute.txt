@@ -1,2 +1,0 @@
-C:\Users\KUTAY\source\repos\ChessPointCalculation\Debug\ChessPointCalculation.exe
-C:\Users\KUTAY\source\repos\ChessPointCalculation\Debug\ChessPointCalculation.pdb

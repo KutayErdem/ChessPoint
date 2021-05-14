@@ -1,9 +1,0 @@
-﻿  ChessPointCalculation.cpp
-C:\Users\KUTAY\source\repos\ChessPointCalculation\Fil.h(30,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\Kale.h(28,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\Şah.h(34,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\ChessPointCalculation.cpp(46,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\ChessPointCalculation.cpp(48,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\ChessPointCalculation.cpp(62,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-C:\Users\KUTAY\source\repos\ChessPointCalculation\ChessPointCalculation.cpp(76,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
-  ChessPointCalculation.vcxproj -> C:\Users\KUTAY\source\repos\ChessPointCalculation\Debug\ChessPointCalculation.exe
